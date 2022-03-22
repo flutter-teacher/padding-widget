@@ -7,6 +7,8 @@ Edge Insets (EdgeInsets  class) specifies the offsets in the form of visual edge
 
 EdgeInsets Directional  (EdgeInsetsDirectional   class) specifies the offsets in the form of cardinal direction start, top, end & bottom.
 
+Padding widget video : https://youtu.be/bq37eFbRMc0
+
 Flutter Tutorial Playlist: https://www.youtube.com/playlist?list=PLeKQz1VjpjFq3vbq3Hvl1866nsmAQdzUo
 
 Dart Tutorial Playlist : https://youtube.com/playlist?list=PLeKQz1VjpjFqqXLvQ8rTnYxZcUqEGA0dm
